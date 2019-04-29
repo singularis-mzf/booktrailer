@@ -1,6 +1,6 @@
 Files: * (where not stated otherwise)
 Copyright: 2019, Singularis
-License: CC-BY-SA-4.0
+License: CC-BY-SA 4.0
  This work is licensed under the Creative Commons Attribution-Share
  Alike 4.0 Unported License. To view  a  copy  of  this  license,  visit
  http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creâ€
@@ -18,3 +18,23 @@ License: CC-BY-SA-4.0
  LICENSE MAY BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE
  RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS
  AND CONDITIONS.
+
+Files: septani_data/*
+Files: septani-scenar.odt
+Copyright: 2019, Singularis
+License: CC-BY-SA-4.0
+REQUIRED ATTRIBUTION: the work is derived from:
+ 1. Ester Krejčí
+   - Author: Singularis
+   - Title of the work: Ester Krejčí
+   - License: CC-BY-SA 3.0 CZ
+FAIR USE:
+ 2. Medvídek Pú (the character name "Ijáček")
+   - Author: Alexander Alan Milne (translation Hana Skoumalová)
+   - Title of the work: Medvídek Pú
+   - Fair use: § 31, 1a.
+OTHER USED WORKS:
+ 3. Slávy dcera
+   - Author: Jan Kollár
+   - Title of the work: Slávy dcera
+   - Public domain (copyright expired)
