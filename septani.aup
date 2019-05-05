@@ -326,7 +326,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="L" channel="0" linked="1" mute="0" solo="0" height="65" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="L" channel="0" linked="1" mute="0" solo="0" height="65" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="-0.6" colorindex="0">
 		<waveclip offset="50.55507937" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="141238">
 				<waveblock start="0">
@@ -552,7 +552,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="L" channel="1" linked="0" mute="0" solo="0" height="63" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="L" channel="1" linked="0" mute="0" solo="0" height="63" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="-0.6" colorindex="0">
 		<waveclip offset="50.55507937" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="141238">
 				<waveblock start="0">
@@ -778,7 +778,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="R" channel="0" linked="1" mute="0" solo="0" height="65" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="R" channel="0" linked="1" mute="0" solo="0" height="65" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.6" colorindex="0">
 		<waveclip offset="41.44723356" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="313080">
 				<waveblock start="0">
@@ -1018,7 +1018,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="R" channel="1" linked="0" mute="0" solo="0" height="65" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="R" channel="1" linked="0" mute="0" solo="0" height="65" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.6" colorindex="0">
 		<waveclip offset="41.44723356" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="313080">
 				<waveblock start="0">

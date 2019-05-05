@@ -1,0 +1,257 @@
+<!doctype html>
+<html class="ndebug">
+<head>
+<meta charset="utf8">
+<title>Oficiální booktrailer seriálu Ester Krejčí − závěrečné titulky</title>
+<style>
+@keyframes animace {
+    from {top:110vh;}
+    to {top:-400vw;}
+}
+@keyframes apozadi1 {
+    0% {opacity:1;}
+    15% {opacity:1;}
+    20% {opacity:0;}
+    100% {opacity:0;}
+}
+@keyframes apozadi2 {
+    0% {opacity:1;}
+    35% {opacity:1;}
+    40% {opacity:0;}
+    100% {opacity:0;}
+}
+@keyframes apozadi3 {
+    0% {opacity:1;}
+    55% {opacity:1;}
+    60% {opacity:0;}
+    100% {opacity:0;}
+}
+@keyframes apozadi4 {
+    0% {opacity:1;}
+    75% {opacity:1;}
+    80% {opacity:0;}
+    100% {opacity:0;}
+}
+@keyframes apozadi5 {
+    0% {opacity:1;}
+    95% {opacity:1;}
+    100% {opacity:1;}
+}
+
+section, .pozadi {
+    animation-delay:5s;
+    animation-duration:240s;
+    animation-direction:normal;
+    animation-fill-mode:forwards;
+    animation-iteration-count:1;
+    animation-timing-function:linear;
+}
+
+html
+{
+/*    background:black url("pozadi.jpg") 0% 0%/auto 100vh repeat-x fixed; */
+/* background:black url("wetland.jpg") 50% 50%/cover no-repeat fixed; */
+    background:#666666;
+    color:#eeeeee;
+    font:2.75vw/1.2 "Latin Modern Sans",monospace;
+    text-shadow:
+        0.1vw 0px 0.05vw #000000, -0.1vw 0px 0.05vw #000000, 0px 0.1vw 0.05vw #000000, 0px -0.1vw 0.05vw #000000,
+        0.05vw 0px #000000, -0.05vw 0px #000000, 0px 0.05vw #000000, 0px -0.05vw #000000;
+}
+html, body {overflow:hidden;text-align:center;}
+.pozadi {
+    position:absolute;left:0;top:0;right:0;bottom:0;
+    text-align:left;font-size:2vw;
+}
+/*.pozadi {color:transparent;text-shadow:none;}*/
+.pozadi {color:transparent;text-shadow:none;background-size:100% auto;background-position:50% 0%;}
+#pozadi1 {animation-name:apozadi1;z-index:40;background-image:url("01-wetland.jpg");}
+#pozadi2 {animation-name:apozadi2;z-index:30;background-image:url("02-rising-sun.jpg");}
+#pozadi3 {animation-name:apozadi3;z-index:20;background-image:url("03-soren.jpg");}
+#pozadi4 {animation-name:apozadi4;z-index:10;background-image:url("04-cielo.jpg");background-position:50% 100%;}
+#pozadi5 {animation-name:apozadi5;z-index:5;background-image:url("05-small-flowers.jpg");}
+
+body, section
+{
+    backgrund:black none 50% 50%/cover no-repeat fixed;
+}
+section
+{
+    position:absolute;left:5%;right:5%;top:0;bottom:auto;z-index:100;
+    animation-name:animace;
+}
+
+
+
+.text {line-height:1.5;}
+.titulek, .dila, .naalic {margin:1em auto;padding:0 5vw;}
+.h {font-weight:bold;}
+.url {white-space:nowrap;}
+.naalic div {margin:0.5em 0;}
+.naalic .zkratka {font-weight:bold;}
+.dila>div {margin-bottom:1ex;}
+.dila .author, .program {color:#00ff00;}
+.dila .comment {color:#ffcccc;font-style:italic;}
+.dila .lic {white-space:nowrap;}
+/* konkrétní elementy:: */
+.ccbysa {width:15vw;float:left;position:relative;left:1.5vw;top:1.35em;opacity:0.9;}
+table.software {margin:0 auto;}
+table.software td {padding:0 0.5em;}
+table.software td:nth-child(1) {font-variant:small-caps;font-size:110%;}
+table.software td:nth-child(3) {text-align:left;}
+.nowrap {white-space:nowrap;}
+/* debugging: */
+html.debug, html.debug body {overflow:auto;}
+html.debug section {animation:none;}
+html.debug .pozadi {color:red;text-shadow:inherit;}
+</style>
+</head>
+<body>
+<div class="pozadi" id="pozadi1">1</div>
+<div class="pozadi" id="pozadi2">2</div>
+<div class="pozadi" id="pozadi3">3</div>
+<div class="pozadi" id="pozadi4">4</div>
+<div class="pozadi" id="pozadi5">5</div>
+<section><article>
+<img src="ccbysa.svg" alt="CC BY-SA" class="ccbysa">
+<div class="text" style="padding-left:15vw;padding-right:5vw;margin-bottom:2em;">
+Toto video a seriál Ester Krejčí jsou díla svobodné kultury.
+Máte právo na ně navazovat, upravovat je a šířit za podmínek stanovených
+odpovídajícími verzemi licence Creative Commons Attribution-ShareAlike.
+</div>
+<div class="obrstred"><img src="obalky.png" alt="" style="width:60vw;"></div>
+<div class="text" style="font-size:200%;color:yellow;margin:1em auto;">
+http://esterkrejci.mzf.cz
+</div>
+<div class="titulek">
+<div class="h">namluvil/a, střih, kamera, režie</div>
+<div class="txt">SINGULARIS</div>
+</div>
+<div class="titulek">
+<div class="h">použitý software (neznamená spolupráci)</div>
+<table class="software"><tbody>
+<tr><td><span class="program">KDEnlive</span></td><td>&mdash;</td><td>střih</td></tr>
+<tr><td><span class="program">Audacity</span></td><td>&mdash;</td><td>editace zvuku</td></tr>
+<tr><td><span class="program">FFmpeg</span></td><td>&mdash;</td><td>předzpracování videa</td></tr>
+<tr><td><span class="program">Mozilla Firefox</span></td><td>&mdash;</td><td>animace titulků</td></tr>
+<tr><td><span class="program">Kazam</span></td><td>&mdash;</td><td>záznam obrazovky</td></tr>
+<tr><td><span class="program">Kate</span></td><td>&mdash;</td><td>editace zdrojových kódů</td></tr>
+<tr><td><span class="program">GIMP</span></td><td>&mdash;</td><td>předzpracování obrázků</td></tr>
+<tr><td><span class="program">MyPaint</span></td><td>&mdash;</td><td>digitální kresba (číslo verze)</td></tr>
+<tr><td><span class="program">Latin Modern Sans</span></td><td>&mdash;</td><td>písmo titulků (hlavní)</td></tr>
+<tr><td><span class="program">Courier New</span></td><td>&mdash;</td><td>písmo titulků</td></tr>
+</tbody></table>
+<div class="dila">
+<div class="h">uvedení autorství tohoto videa</div>
+<div><span class="author">Singularis</span>
+/ <span class="dilo">Oficiální ASMR booktrailer seriálu Ester Krejčí 1.0</span>
+/ <span class="lic">CC BY-SA 4.0 Int.</span></div>
+</div>
+<div class="dila">
+<div class="h">použitá díla (neznamená spolupráci)</div>
+<div><span class="author">Singularis</span>
+/ <span class="dilo">Ester Krejčí</span>
+/ <span class="lic">CC BY-SA 3.0 CZ</span>
+</div>
+<div><span class="author">casa.de.locos</span>
+/ <span class="dilo">Ester Krejčí</span>
+/ <span class="lic">CC BY 4.0 Int.</span>
+/ <span class="comment">Graficky upravil/a Singularis. Úpravy podléhají CC BY-SA 3.0 CZ.</span>
+</div>
+<div><span class="author">casa.de.locos</span>
+/ <span class="dilo">Moje vinná réva</span>
+/ <span class="lic">CC BY 4.0 Int.</span>
+/ <span class="comment">Graficky upravil/a Singularis. Úpravy podléhají CC BY-SA 3.0 CZ.</span>
+</div>
+<div><span class="author">Pajama Crisis (Emmett Plant)</span>
+/ <span class="dilo">Free as in Tuxi</span>
+/ <span class="lic">PD-USA</span>
+</div>
+<div><span class="author">Offnfopt (uživatel Wikimedia Commons)</span>
+/ <span class="dilo">CC-BY-SA licensing button</span>
+/ <span class="lic">PD-USA</span>
+</div>
+<div><span class="author">Marc Falzon</span>
+/ <span class="dilo">Free Cultural Works logo</span>
+/ <span class="lic">PD-USA</span>
+</div>
+<div><span class="author">&copy; 2013-2018 Ubuntu Kylin community contributors</span>
+/ <span class="dilo nowrap">wetland.jpg</span>
+/ <span class="lic">CC BY-SA 3.0 Unp.</span>
+/ <span class="comment">Graficky upravil/a Singularis. Úpravy podléhají CC BY-SA 4.0 Int.</span>
+</div>
+<div><span class="author">&copy; 2013-2018 Ubuntu Kylin community contributors</span>
+/ <span class="dilo nowrap">rising-sun.jpg</span>
+/ <span class="lic">CC BY-SA 3.0 Unp.</span>
+/ <span class="comment">Graficky upravil/a Singularis. Úpravy podléhají CC BY-SA 4.0 Int.</span>
+</div>
+<div><span class="author">&copy; 2018, Søren Krarup Olesen</span>
+/ <span class="dilo">soren_krarup_olesen__east_harbour_sunrise__4k.jpg<br>
+/ <span class="lic">CC BY 4.0 Int.</span>
+/ <span class="comment">https://xubuntu.org/news/18-04-community-wallpaper-contest-winners/</span>
+/ <span class="comment">Graficky upravil/a Singularis. Úpravy podléhají CC BY-SA 4.0 Int.</span>
+</div>
+<div><span class="author">&copy; Eduardo Diez Viñuela</span>
+/ <span class="dilo">Cielo_estrellado_by_Eduardo_Diez_Viñuela.jpg</span>
+/ <span class="lic">CC BY-SA 2.0</span>
+/ <span class="comment">Graficky upravil/a Singularis. Úpravy podléhají CC BY-SA 4.0 Int.</span>
+</div>
+<div><span class="author">&copy; 2013-2018 Ubuntu Kylin community contributors</span>
+/ <span class="dilo nowrap">small-flowers.jpg</span>
+/ <span class="lic">CC BY-SA 3.0 Unp.</span>
+/ <span class="comment">oříznuto</span>
+</div>
+<div><span class="author">Jan Kollár</span>
+/ <span class="dilo">Slávy dcera</span>
+/ <span class="lic">PD</span>
+</div>
+<div><span class="author">Gustav Šeďa</span>
+/ <span class="dilo">logo Českých drah</span>
+/ <span class="lic">&sect;&nbsp;38c</span>
+</div>
+<div><span class="author">Alan Alexander Milne (překlad Hana Skoumalová)</span>
+/ <span class="dilo">Medvídek Pú (jméno postavy „Ijáček“)</span>
+/ <span class="lic">&sect;&nbsp;31</span>
+</div>
+
+
+<div class="naalic">
+<span class="h">názvy a adresy licencí</span>
+<div><span class="zkratka">CC BY-SA 2.0</span> /
+<span class="nazev">Creative Commons Attribution-ShareAlike 2.0</span> /
+<span class="url">https://creativecommons.org/licenses/by-sa/2.0/</span>
+</div>
+<div><span class="zkratka">CC BY-SA 3.0 CZ</span> /
+<span class="nazev">Creative Commons Uveďte autora−Zachovejte licenci 3.0 Česko</span> /
+<span class="url">https://creativecommons.org/licenses/by-sa/3.0/cz/</span>
+</div>
+<div><span class="zkratka">CC BY-SA 3.0 Unp.</span> /
+<span class="nazev">Creative Commons Attribution-ShareAlika 3.0 Unported</span> /
+<span class="url">https://creativecommons.org/licenses/by-sa/3.0/</span>
+</div>
+<div><span class="zkratka">CC BY 4.0 Int.</span> /
+<span class="nazev">Creative Commons Attribution 4.0 International</span> /
+<span class="url">https://creativecommons.org/licenses/by/4.0/</span>
+</div>
+<div><span class="zkratka">CC BY-SA 4.0 Int.</span> /
+<span class="nazev">Creative Commons Attribution-ShareAlike 4.0 International</span> /
+<span class="url">https://creativecommons.org/licenses/by-sa/4.0/</span>
+</div>
+<div><span class="zkratka">PD-USA</span> /
+<span class="nazev">volné dílo prohlášením autora v USA</span>
+</div>
+<div><span class="zkratka">PD</span> /
+<span class="nazev">volné dílo vypršením doby ochrany</span>
+</div>
+<div><span class="zkratka">&sect;&nbsp;31</span> /
+<span class="nazev">citace</span></div>
+<div><span class="zkratka">&sect;&nbsp;38c</span> /
+<span class="nazev">nepodstatné vedlejší užití díla</span></div>
+
+
+<div class="titulek" style="margin-top:3em;">
+<div class="h">vyrobil/a</div>
+<div class="txt">SINGULARIS<br>v roce 2019</div>
+</div>
+</article></section></body>
+</html>

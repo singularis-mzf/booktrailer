@@ -19,15 +19,21 @@ License: CC-BY-SA 4.0
  RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS
  AND CONDITIONS.
 
+
+Files: README.md
+Files: septani.aup
+Copyright: 2019, Singularis
+License: CC-BY-SA-4.0
+ 
+Files: scenar-septani.odt
 Files: septani_data/*
-Files: septani-scenar.odt
 Copyright: 2019, Singularis
 License: CC-BY-SA-4.0
 REQUIRED ATTRIBUTION: the work is derived from:
  1. Ester Krejčí
    - Author: Singularis
    - Title of the work: Ester Krejčí
-   - License: CC-BY-SA 3.0 CZ
+   - License: CC BY-SA 3.0 CZ
 FAIR USE:
  2. Medvídek Pú (the character name "Ijáček")
    - Author: Alexander Alan Milne (translation Hana Skoumalová)
@@ -38,3 +44,169 @@ OTHER USED WORKS:
    - Author: Jan Kollár
    - Title of the work: Slávy dcera
    - Public domain (copyright expired)
+
+Files: titulky/ccbysa.svg
+Public domain (released by author)
+Author: Marc Falzon
+Source: https://commons.wikimedia.org/wiki/File:CC-BY-SA_Yellow.svg
+Other sources:
+- https://commons.wikimedia.org/wiki/File:Definition_of_Free_Cultural_Works_logo_notext.svg
+
+Files: titulky/logo.png
+Public domain (no originality)
+
+Files: titulky/obalky.png
+Files: titulky/obalky.xcf
+Copyright: 2018, Singularis
+License: CC-BY-SA 3.0 CZ
+REQUIRED ATTRIBUTION: the work is derived from:
+ 1. Ester Krejčí
+   - Author: Singularis
+   - Title of the work: Ester Krejčí
+   - License: CC BY-SA 3.0 CZ
+OTHER USED WORKS:
+ 2. https://commons.wikimedia.org/wiki/File:A30_CZ.svg
+   - Public domain by Czech Copyright Act
+ 3. https://commons.wikimedia.org/wiki/File:A27_CZ.svg
+   - Public domain by Czech Copyright Act
+
+Files: titulky/placeholder
+Public domain (no originality)
+
+Files: titulky/pozadi.jpg
+Public domain (no originality)
+
+Files: titulky/uvod.htm
+Copyright: 2019, Singularis
+License: CC-BY-SA 4.0 Int.
+
+Files: titulky/verze.png
+Copyright: 2019, Singularis
+License: CC-BY-SA 4.0 Int.
+
+Files: titulky/vysl_uvod1.png
+Public domain (no originality)
+
+Files: titulky/vysl_uvod2.png
+Copyright: 2019, Singularis
+License: Creative Commons CC0
+
+Files: titulky/zaver.htm
+Copyright: 2019, Singularis
+License: CC-BY-SA 4.0 Int.
+
+Files: titulky/01-wetland.jpg
+Copyright: 2013-2018 Ubuntu Kylin community contributors
+Copyright: 2019 Singularis
+License: CC-BY-SA-3.0 (original)
+License: CC-BY-SA 4.0 Int. (modifications by Singularis)
+Comments:
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License. To view a copy of this license, visit
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+Source: Ubuntu 18.04 LTS „Bionic“ package ubuntukylin-wallpapers-trusty version 18.04.0
+(see https://packages.ubuntu.com/bionic/ubuntukylin-wallpapers-trusty )
+
+Files: titulky/02-rising-sun.jpg
+Copyright: 2013-2018 Ubuntu Kylin community contributors
+Copyright: 2019 Singularis
+License: CC-BY-SA-3.0 (original)
+License: CC-BY-SA 4.0 Int. (modifications by Singularis)
+Comments:
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License. To view a copy of this license, visit
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+Source: Ubuntu 18.04 LTS „Bionic“ package ubuntukylin-wallpapers-utopic version 18.04.0
+(see https://packages.ubuntu.com/bionic/ubuntukylin-wallpapers-utopic )
+
+Files: titulky/03-soren.jpg
+Copyright: 2018, Søren Krarup Olesen
+Copyright: 2019 Singularis
+License: CC-BY-4.0 (original)
+License: CC-BY-SA 4.0 Int. (modifications by Singularis)
+Source: Ubuntu 18.04 LTS „Bionic“ package xubuntu-community-wallpapers-bionic version 18.04.0
+(see https://packages.ubuntu.com/bionic/xubuntu-community-wallpapers-bionic )
+
+Files: titulky/04-cielo.jpg
+Copyright: Eduardo Diez Viñuela
+Copyright: 2019 Singularis
+License: CC-BY-SA-2.0 (original)
+License: CC-BY-SA 4.0 Int. (modifications by Singularis)
+ This work is licensed under the Creative Commons Attribution-ShareAlike 2.0
+ Generic License. To view a copy of this license, visit
+ https://creativecommons.org/licenses/by-sa/2.0/ or send a letter to Creative
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+Source: Ubuntu 18.04 LTS „Bionic“ package ubuntu-wallpapers-xenial version 18.04.1
+(see https://packages.ubuntu.com/bionic/ubuntu-wallpapers-xenial )
+
+Files: titulky/05-small-flowers.jpg
+Copyright: 2013-2018 Ubuntu Kylin community contributors
+License: CC-BY-SA-3.0
+Comments:
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License. To view a copy of this license, visit
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+Source: Ubuntu 18.04 LTS „Bionic“ package ubuntukylin-wallpapers-utopic version 18.04.0
+(see https://packages.ubuntu.com/bionic/ubuntukylin-wallpapers-utopic )
+
+Files: videa/closing.mp4
+Copyright: 2019 Singularis
+License: CC-BY-SA-4.0
+REQUIRED ATTRIBUTION: the work is derived from:
+ 1. Ester Krejčí
+   - Author: Singularis
+   - Title of the work: Ester Krejčí
+   - License: CC BY-SA 3.0 CZ
+ 2. titulky/01-wetland.jpg (see license and attribution for that file)
+ 3. titulky/02-rising-sun.jpg (see license and attribution for that file)
+ 4. titulky/03-soren.jpg (see license and attribution for that file)
+ 5. titulky/04-cielo.jpg (see license and attribution for that file)
+ 6. titulky/05-small-flowers.jpg (see license and attribution for that file)
+
+Files: videa/placeholder
+Public domain (no originality)
+
+Files: videa/prejezd.mp4
+Copyright: 2019 Singularis
+License: CC-BY-SA-4.0
+
+Files: videa/vlak.mp4
+Copyright: 2019 Singularis
+License: CC-BY-SA-4.0
+
+Files: zvuky/listovani.mp3
+Copyright: 2019 Singularis
+License: CC-BY-SA-4.0
+
+Files: zvuky/placeholder
+Public domain (no originality)
+
+Files: zvuky/septani.mp3
+Copyright: 2019 Singularis
+License: CC-BY-SA-4.0
+REQUIRED ATTRIBUTION: the work is derived from:
+ 1. Ester Krejčí
+   - Author: Singularis
+   - Title of the work: Ester Krejčí
+   - License: CC BY-SA 3.0 CZ
+FAIR USE:
+ 2. Medvídek Pú (the character name "Ijáček")
+   - Author: Alexander Alan Milne (translation Hana Skoumalová)
+   - Title of the work: Medvídek Pú
+   - Fair use: § 31, 1a.
+OTHER USED WORKS:
+ 3. Slávy dcera
+   - Author: Jan Kollár
+   - Title of the work: Slávy dcera
+   - Public domain (copyright expired)
+
+Files: zvuky/tuxi.ogg
+Public domain (released by author)
+Author: Emmett Plant (emmett@sonivius.com)
+Source: Ubuntu 18.04 LTS „Bionic“ package tuxtype-data version 1.8.3-2
+(see https://packages.ubuntu.com/bionic/tuxtype-data
+and http://changelogs.ubuntu.com/changelogs/pool/universe/t/tuxtype/tuxtype_1.8.3-2/copyright )
+
