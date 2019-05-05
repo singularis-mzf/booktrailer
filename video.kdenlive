@@ -1,0 +1,2845 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt title="Anonymous Submission" version="6.6.0" root="/e/github/booktrailer-video" producer="main bin" LC_NUMERIC="cs_CZ.UTF-8">
+ <profile width="1920" frame_rate_den="1" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" colorspace="709" sample_aspect_den="1" description="HD 1080p 25 fps" progressive="1" sample_aspect_num="1"/>
+ <producer id="1" out="217" in="0">
+  <property name="length">218</property>
+  <property name="eof">pause</property>
+  <property name="resource">titulky/vysl_uvod1.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">82734</property>
+  <property name="kdenlive:file_hash">2bb9b96b44b89befe3512125bc8441ec</property>
+ </producer>
+ <producer id="2" out="235" in="0">
+  <property name="length">236</property>
+  <property name="eof">pause</property>
+  <property name="resource">titulky/vysl_uvod2.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">253738</property>
+  <property name="kdenlive:file_hash">d0bf1280ae7605fa2077adb5b4f73b5d</property>
+ </producer>
+ <producer id="4" title="Anonymous Submission" out="10726" in="0">
+  <property name="length">10727</property>
+  <property name="eof">pause</property>
+  <property name="resource">zvuky/septani.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">320000</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.100</property>
+  <property name="meta.attr.artist.markup">Singularis</property>
+  <property name="meta.attr.comment.markup">CC BY-SA 4.0 Int.</property>
+  <property name="meta.attr.date.markup">2019</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">17164696</property>
+  <property name="kdenlive:file_hash">132b8aa11cd601ec74a3df6001400797</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="5" title="Anonymous Submission" out="13196" in="0">
+  <property name="length">13197</property>
+  <property name="eof">pause</property>
+  <property name="resource">zvuky/listovani.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">320000</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.100</property>
+  <property name="meta.attr.Software.markup">Lavf57.83.100</property>
+  <property name="meta.attr.artist.markup">Singularis</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">21116236</property>
+  <property name="kdenlive:file_hash">7dc0177b50bccb7de8d6b29f5a8e5b4f</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="6" title="Anonymous Submission" out="13194" in="0">
+  <property name="length">13195</property>
+  <property name="eof">pause</property>
+  <property name="resource">videa/listovani.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">16284618</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">1074545304</property>
+  <property name="kdenlive:file_hash">09575575bc8e1d796d29986041894bfc</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="7" title="Anonymous Submission" out="677" in="0">
+  <property name="length">678</property>
+  <property name="eof">pause</property>
+  <property name="resource">videa/vlak.mp4</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">18590624</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16p</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">mp3</property>
+  <property name="meta.media.1.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.1.codec.bit_rate">320200</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">64035202</property>
+  <property name="kdenlive:file_hash">6ca9f8c1cc826113d7e5442bba1fa432</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="8" title="Anonymous Submission" out="1122" in="0">
+  <property name="length">1123</property>
+  <property name="eof">pause</property>
+  <property name="resource">videa/prejezd.mp4</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">16930306</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16p</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">mp3</property>
+  <property name="meta.media.1.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.1.codec.bit_rate">256005</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">96448566</property>
+  <property name="kdenlive:file_hash">7d8dd1b4a53a0d79c34b13f3d1a3a785</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:zone_in">726</property>
+  <property name="kdenlive:zone_out">922</property>
+ </producer>
+ <producer id="11" title="Anonymous Submission" out="2735" in="0">
+  <property name="length">2736</property>
+  <property name="eof">pause</property>
+  <property name="resource">zvuky/tuxi.ogg</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">128003</property>
+  <property name="meta.attr.0.stream.ARTIST.markup">Pajama Crisis</property>
+  <property name="meta.attr.0.stream.ALBUM.markup">Beautiful Science</property>
+  <property name="meta.attr.0.stream.TITLE.markup">Free As In Tuxi</property>
+  <property name="meta.attr.0.stream.ENCODED_USING.markup">oggdropXPd interface.</property>
+  <property name="meta.attr.0.stream.ENCODED_BY.markup">Emmett</property>
+  <property name="meta.attr.0.stream.GENRE.markup">Other</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">1835803</property>
+  <property name="kdenlive:file_hash">da930d74c1f20a62856736a652fd1250</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="14" title="Anonymous Submission" out="181" in="0">
+  <property name="length">182</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">015EK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="909.781" font-color="186,189,182,255" alignment="1">Ester Krejčí, str. 15&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">fa78335b5e9d2ad98a1e2a110051ecb0</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="15" title="Anonymous Submission" out="222" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">028NK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="875.188" font-color="186,189,182,255" alignment="1">Nikita Král, str. 28&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">c7f50b681bde3482be96651d12703932</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="16" title="Anonymous Submission" out="222" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">028LZ</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="979.797" font-color="186,189,182,255" alignment="1">Lumír Zedník, str. 28&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7cbf6985ac7442b2d0f61161dc33b73c</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="17" title="Anonymous Submission" out="237" in="0">
+  <property name="length">238</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">030BJ</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="984.172" font-color="186,189,182,255" alignment="1">Barbora Janů, str. 30&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7cbf6985ac7442b2d0f61161dc33b73c</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="18" title="Anonymous Submission" out="222" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">030TJ</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="965.875" font-color="186,189,182,255" alignment="1">Tamara Janů, str. 30&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">3e5e84d08c42abe2d51643f9b4a50b8e</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="19" title="Anonymous Submission" out="222" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">032EK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="909.781" font-color="186,189,182,255" alignment="1">Ester Krejčí, str. 32&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">7c62d2d73818775b18740931870f8a44</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="20" title="Anonymous Submission" out="308" in="0">
+  <property name="length">309</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">038Astra</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="615.844" font-color="186,189,182,255" alignment="1">Astra, str. 38&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">ef3a9a374d41c8aa9f5fcccf9990eaba</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="21" title="Anonymous Submission" out="222" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">038hoch</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="925.078" font-color="186,189,182,255" alignment="1">hoch z davu, str. 38&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">2fd4c49a42920acfdb38dd5bd29be3fe</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="22" title="Anonymous Submission" out="24" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">045EK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="909.781" font-color="186,189,182,255" alignment="1">Ester Krejčí, str. 45&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">3e409ff508c4eae03141a4f098c8c055</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="23" title="Anonymous Submission" out="24" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">041TJ</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="965.875" font-color="186,189,182,255" alignment="1">Tamara Janů, str. 41&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">3e409ff508c4eae03141a4f098c8c055</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="24" title="Anonymous Submission" out="24" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">058EK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="909.781" font-color="186,189,182,255" alignment="1">Ester Krejčí, str. 58&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">3e409ff508c4eae03141a4f098c8c055</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="25" title="Anonymous Submission" out="24" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">062EK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="909.781" font-color="186,189,182,255" alignment="1">Ester Krejčí, str. 62&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">9f48e1f5121ae08326a378cac34701a9</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="26" title="Anonymous Submission" out="24" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">064</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1017.47" font-color="186,189,182,255" alignment="1">reklamní leták, str. 64&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">37f0e15612472b56202242103377417c</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="27" title="Anonymous Submission" out="24" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">069spoiler</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="751.719" font-color="186,189,182,255" alignment="1">(spoiler), str. 69&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">65d9262e0f8d7522d12f7abd3d42b774</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="28" title="Anonymous Submission" out="233" in="0">
+  <property name="length">234</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">076EK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="909.781" font-color="186,189,182,255" alignment="1">Ester Krejčí, str. 76&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">37f0e15612472b56202242103377417c</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="29" title="Anonymous Submission" out="24" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">074MVR</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1107.14" font-color="186,189,182,255" alignment="1">Moje vinná réva, str. 74&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">bf8eb699b5fee7b0d8d952b4aa3fd4c0</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="30" out="24" in="0">
+  <property name="length">223</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">069EK (kopie)</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="909.781" font-color="186,189,182,255" alignment="1">Ester Krejčí, str. 69&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">bf8eb699b5fee7b0d8d952b4aa3fd4c0</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="31" title="Anonymous Submission" out="233" in="0">
+  <property name="length">234</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">081EK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="909.781" font-color="186,189,182,255" alignment="1">Ester Krejčí, str. 81&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">5b57b0b052a9ec918cb846759c200ead</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="32" title="Anonymous Submission" out="233" in="0">
+  <property name="length">234</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">091BJ</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="984.172" font-color="186,189,182,255" alignment="1">Barbora Janů, str. 91&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">23a985b5c781bb50090ea6edad7126f6</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="33" title="Anonymous Submission" out="235" in="0">
+  <property name="length">236</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">093VV</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1060.09" font-color="186,189,182,255" alignment="1">Vojtěch Verner, str. 93&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">23a985b5c781bb50090ea6edad7126f6</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="34" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">105EK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="964.766" font-color="186,189,182,255" alignment="1">Ester Krejčí, str. 105&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">23a985b5c781bb50090ea6edad7126f6</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="35" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">112Radek</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="708.344" font-color="186,189,182,255" alignment="1">Radek, str. 112&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">658461952b23954bf508804245d4754f</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="36" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">118TJ121</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="245" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1311.67" font-color="186,189,182,255" alignment="1">Tamara Janů, str. 118 a 121&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">e42736f2a9a2740b42722119569e429b</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="37" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">134NM</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1200.83" font-color="186,189,182,255" alignment="1">Nikola Merlinová, str. 134&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">e42736f2a9a2740b42722119569e429b</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="38" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">148Astra</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="670.828" font-color="186,189,182,255" alignment="1">Astra, str. 148&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">e42736f2a9a2740b42722119569e429b</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="39" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">162NK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="930.172" font-color="186,189,182,255" alignment="1">Nikita Král, str. 162&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">2532941a991003d6e1a624d638505e17</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="40" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">165JZ</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1118.02" font-color="186,189,182,255" alignment="1">Jana Zlomilová, str. 165&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">6e959f3f6642e0fb0d44410ca506a64d</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="41" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">165MVR</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1162.13" font-color="186,189,182,255" alignment="1">Moje vinná réva, str. 165&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">294e611b2052b0e75f446a7276c09e7d</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="42" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">179TJ</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1020.86" font-color="186,189,182,255" alignment="1">Tamara Janů, str. 179&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">294e611b2052b0e75f446a7276c09e7d</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="43" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">173MVR</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1162.13" font-color="186,189,182,255" alignment="1">Moje vinná réva, str. 173&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">f915c4e6b613bb0d0c16fd29abd118e8</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="44" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">199Neptuna</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="245" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="816.922" font-color="186,189,182,255" alignment="1">Neptuna, str. 199&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">35bf8bf93d52e3ff515f192b02dbbbf7</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="45" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">206EM</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1002.88" font-color="186,189,182,255" alignment="1">Erika Macků, str. 206&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">35bf8bf93d52e3ff515f192b02dbbbf7</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="46" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">214TJ</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1020.86" font-color="186,189,182,255" alignment="1">Tamara Janů, str. 214&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">35bf8bf93d52e3ff515f192b02dbbbf7</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="47" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">213MVR</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1162.13" font-color="186,189,182,255" alignment="1">Moje vinná réva, str. 213&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">61c3d76d346856c7b47bda1167230e5f</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="48" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">216Radek</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="708.344" font-color="186,189,182,255" alignment="1">Radek, str. 216&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">48fa2ccb68ca698dbcaec1c3aed25e4c</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="49" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">224EK</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="964.766" font-color="186,189,182,255" alignment="1">Ester Krejčí, str. 224&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">a1e39b41f4287bb017a2ae96b09551cc</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="50" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">241divka</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="991.359" font-color="186,189,182,255" alignment="1">dívka ve snu, str. 241&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">49a4a7d1484b741ec338d9247f84e08f</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="51" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">251Sacek</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="691.938" font-color="186,189,182,255" alignment="1">Sáček, str. 251&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">49a4a7d1484b741ec338d9247f84e08f</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="52" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">265MN</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="1184.83" font-color="186,189,182,255" alignment="1">Melanie Navrátil, str. 265&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">99024df303a8bf776962270b96c5ae27</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="53" title="Anonymous Submission" out="685" in="0">
+  <property name="length">686</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">280spoiler</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="25" out="25" height="1080" LC_NUMERIC="cs_CZ.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="244" y="773">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="75" box-height="144" font-outline-color="46,52,54,255" shadow="1;#ff555753;6;6;6" font="Latin Modern Sans" font-underline="0" font-outline="3" font-pixel-size="100" line-spacing="0" box-width="806.703" font-color="186,189,182,255" alignment="1">(spoiler), str. 280&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="117,80,123,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">25</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">8c3b4483e2465c2c78f45f76afde2ade</property>
+  <property name="global_feed">1</property>
+  <property name="templatetext">Test − Ester Krejčí</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="54" title="Anonymous Submission" out="5499" in="0">
+  <property name="length">5500</property>
+  <property name="eof">pause</property>
+  <property name="resource">videa/closing.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv444p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">11304333</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">301281450</property>
+  <property name="kdenlive:file_hash">9c154d7c366127c114dab3cc6fd7d8aa</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <playlist id="main bin">
+  <property name="kdenlive:docproperties.audiotargettrack">3</property>
+  <property name="kdenlive:docproperties.decimalPoint">,</property>
+  <property name="kdenlive:docproperties.dirtypreviewchunks"/>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1556889669359</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.kdenliveversion">17.12.3</property>
+  <property name="kdenlive:docproperties.position">6914</property>
+  <property name="kdenlive:docproperties.previewchunks"/>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">atsc_1080p_25</property>
+  <property name="kdenlive:docproperties.proxyextension">mkv</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams">-vf yadif,scale=960:-2 -qscale 3 -vcodec mjpeg -acodec pcm_s16le</property>
+  <property name="kdenlive:docproperties.version">0.96</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videotargettrack">4</property>
+  <property name="kdenlive:docproperties.zonein">1252</property>
+  <property name="kdenlive:docproperties.zoneout">1612</property>
+  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:docmetadata.meta.attr.author.markup">Singularis</property>
+  <property name="kdenlive:docmetadata.meta.attr.copyright.markup">Singularis</property>
+  <property name="kdenlive:docmetadata.meta.attr.title.markup">Oficiální ASMR booktrailer seriálu Ester Krejčí 1.0</property>
+  <property name="kdenlive:docmetadata.meta.attr.year.markup">2019</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:clipgroups">&lt;groups>
+ &lt;group>
+  &lt;clipitem position="418" track="3"/>
+  &lt;clipitem position="418" track="4"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="1319" track="2"/>
+  &lt;clipitem position="1319" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="1713" track="5"/>
+  &lt;clipitem position="1795" track="5"/>
+  &lt;clipitem position="1631" track="5"/>
+  &lt;clipitem position="1631" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="2325" track="5"/>
+  &lt;clipitem position="2325" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="2023" track="5"/>
+  &lt;clipitem position="1927" track="2"/>
+  &lt;clipitem position="2060" track="5"/>
+  &lt;clipitem position="2045" track="1"/>
+  &lt;clipitem position="1996" track="1"/>
+  &lt;clipitem position="1927" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="8447" track="5"/>
+  &lt;clipitem position="8447" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="8974" track="5"/>
+  &lt;clipitem position="8974" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="11245" track="2"/>
+  &lt;clipitem position="11245" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="11545" track="5"/>
+  &lt;clipitem position="11545" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="11795" track="2"/>
+  &lt;clipitem position="11795" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="12239" track="2"/>
+  &lt;clipitem position="12239" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="12430" track="5"/>
+  &lt;clipitem position="12430" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="12636" track="5"/>
+  &lt;clipitem position="12636" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="12832" track="2"/>
+  &lt;clipitem position="12832" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="10961" track="5"/>
+  &lt;clipitem position="10961" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="10694" track="5"/>
+  &lt;clipitem position="10694" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="10422" track="2"/>
+  &lt;clipitem position="10422" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="9860" track="2"/>
+  &lt;clipitem position="9860" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="9560" track="5"/>
+  &lt;clipitem position="9560" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="9446" track="5"/>
+  &lt;clipitem position="9327" track="2"/>
+  &lt;clipitem position="9327" track="5"/>
+  &lt;clipitem position="9415" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="8055" track="2"/>
+  &lt;clipitem position="8055" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="7742" track="2"/>
+  &lt;clipitem position="7742" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="7451" track="2"/>
+  &lt;clipitem position="7451" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="6556" track="2"/>
+  &lt;clipitem position="6556" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="6211" track="5"/>
+  &lt;clipitem position="6211" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="5939" track="2"/>
+  &lt;clipitem position="5939" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="5660" track="2"/>
+  &lt;clipitem position="5660" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="5094" track="2"/>
+  &lt;clipitem position="5097" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="4870" track="5"/>
+  &lt;clipitem position="4870" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="3117" track="2"/>
+  &lt;clipitem position="3121" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="3016" track="5"/>
+  &lt;clipitem position="3016" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="2514" track="5"/>
+  &lt;clipitem position="2614" track="5"/>
+  &lt;clipitem position="2514" track="2"/>
+  &lt;clipitem position="2575" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="3321" track="2"/>
+  &lt;clipitem position="3321" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="3575" track="2"/>
+  &lt;clipitem position="3575" track="5"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="3832" track="5"/>
+  &lt;clipitem position="3832" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="4098" track="5"/>
+  &lt;clipitem position="4098" track="2"/>
+ &lt;/group>
+ &lt;group>
+  &lt;clipitem position="4358" track="5"/>
+  &lt;clipitem position="4358" track="2"/>
+ &lt;/group>
+&lt;/groups>
+</property>
+  <property name="kdenlive:docproperties.storagefolder">.temp/1556889669359</property>
+  <property name="kdenlive:folder.-1.1">Titulky</property>
+  <property name="kdenlive:folder.-1.2">Titulky postav</property>
+  <property name="kdenlive:folder.-1.4">Zvuky</property>
+  <property name="kdenlive:folder.-1.3">Video</property>
+  <property name="kdenlive:docproperties.renderaudioquality">160</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderendguide">0</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4 - the dominating format (H264/AAC)</property>
+  <property name="kdenlive:docproperties.renderquality">23</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">180</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">320</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">0</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/d/temp/temp/temp5.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="kdenlive:guide.7,52">Začátek zvuku vlaku</property>
+  <property name="xml_retain">1</property>
+  <entry out="124" producer="1" in="0"/>
+  <entry out="124" producer="2" in="0"/>
+  <entry out="10726" producer="4" in="0"/>
+  <entry out="13196" producer="5" in="0"/>
+  <entry out="13194" producer="6" in="0"/>
+  <entry out="677" producer="7" in="0"/>
+  <entry out="1122" producer="8" in="0"/>
+  <entry out="2735" producer="11" in="0"/>
+  <entry out="181" producer="14" in="0"/>
+  <entry out="181" producer="15" in="0"/>
+  <entry out="222" producer="16" in="0"/>
+  <entry out="222" producer="17" in="0"/>
+  <entry out="222" producer="18" in="0"/>
+  <entry out="222" producer="19" in="0"/>
+  <entry out="222" producer="20" in="0"/>
+  <entry out="222" producer="21" in="0"/>
+  <entry out="24" producer="22" in="0"/>
+  <entry out="24" producer="23" in="0"/>
+  <entry out="24" producer="24" in="0"/>
+  <entry out="24" producer="25" in="0"/>
+  <entry out="24" producer="26" in="0"/>
+  <entry out="24" producer="27" in="0"/>
+  <entry out="24" producer="28" in="0"/>
+  <entry out="24" producer="29" in="0"/>
+  <entry out="24" producer="30" in="0"/>
+  <entry out="233" producer="31" in="0"/>
+  <entry out="233" producer="32" in="0"/>
+  <entry out="233" producer="33" in="0"/>
+  <entry out="233" producer="34" in="0"/>
+  <entry out="685" producer="35" in="0"/>
+  <entry out="685" producer="36" in="0"/>
+  <entry out="685" producer="37" in="0"/>
+  <entry out="685" producer="38" in="0"/>
+  <entry out="685" producer="39" in="0"/>
+  <entry out="685" producer="40" in="0"/>
+  <entry out="685" producer="41" in="0"/>
+  <entry out="685" producer="42" in="0"/>
+  <entry out="685" producer="43" in="0"/>
+  <entry out="685" producer="44" in="0"/>
+  <entry out="685" producer="45" in="0"/>
+  <entry out="685" producer="46" in="0"/>
+  <entry out="685" producer="47" in="0"/>
+  <entry out="685" producer="48" in="0"/>
+  <entry out="685" producer="49" in="0"/>
+  <entry out="685" producer="50" in="0"/>
+  <entry out="685" producer="51" in="0"/>
+  <entry out="685" producer="52" in="0"/>
+  <entry out="685" producer="53" in="0"/>
+  <entry out="5499" producer="54" in="0"/>
+ </playlist>
+ <producer id="black" out="27393" in="0">
+  <property name="length">27394</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="black_track">
+  <entry out="16576" producer="black" in="0"/>
+ </playlist>
+ <producer id="4_playlist0" title="Anonymous Submission" out="10726" in="0">
+  <property name="length">10727</property>
+  <property name="eof">pause</property>
+  <property name="resource">zvuky/septani.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">17164696</property>
+  <property name="kdenlive:file_hash">132b8aa11cd601ec74a3df6001400797</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">320000</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.100</property>
+  <property name="meta.attr.artist.markup">Singularis</property>
+  <property name="meta.attr.comment.markup">CC BY-SA 4.0 Int.</property>
+  <property name="meta.attr.date.markup">2019</property>
+ </producer>
+ <producer id="8_playlist0_audio" title="Anonymous Submission" out="1122" in="0">
+  <property name="length">1123</property>
+  <property name="eof">pause</property>
+  <property name="resource">videa/prejezd.mp4</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">96448566</property>
+  <property name="kdenlive:file_hash">7d8dd1b4a53a0d79c34b13f3d1a3a785</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:zone_in">726</property>
+  <property name="kdenlive:zone_out">922</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">16930306</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16p</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">mp3</property>
+  <property name="meta.media.1.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.1.codec.bit_rate">256005</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+ </producer>
+ <playlist id="playlist0">
+  <property name="kdenlive:track_name">Audio 3</property>
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="7"/>
+  <entry out="242" producer="4_playlist0" in="45">
+   <filter id="gain">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">1,5</property>
+   </filter>
+  </entry>
+  <blank length="1791"/>
+  <entry out="1260" producer="4_playlist0" in="1212"/>
+  <entry out="1030" producer="4_playlist0" in="987"/>
+  <blank length="2055"/>
+  <entry out="1531" producer="4_playlist0" in="1483"/>
+  <blank length="72"/>
+  <entry out="1814" producer="4_playlist0" in="1769"/>
+  <entry out="1938" producer="4_playlist0" in="1892"/>
+  <blank length="8890"/>
+  <entry out="930" producer="8_playlist0_audio" in="312">
+   <filter id="volume">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">312=-60;353~=-60;481~=-30;673~=-30;741~=-10;930~=-10</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+ </playlist>
+ <producer id="7_playlist1_audio" title="Anonymous Submission" out="677" in="0">
+  <property name="length">678</property>
+  <property name="eof">pause</property>
+  <property name="resource">videa/vlak.mp4</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">64035202</property>
+  <property name="kdenlive:file_hash">6ca9f8c1cc826113d7e5442bba1fa432</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">18590624</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16p</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">mp3</property>
+  <property name="meta.media.1.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.1.codec.bit_rate">320200</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+ </producer>
+ <producer id="4_playlist1" title="Anonymous Submission" out="10726" in="0">
+  <property name="length">10727</property>
+  <property name="eof">pause</property>
+  <property name="resource">zvuky/septani.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">17164696</property>
+  <property name="kdenlive:file_hash">132b8aa11cd601ec74a3df6001400797</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">320000</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.100</property>
+  <property name="meta.attr.artist.markup">Singularis</property>
+  <property name="meta.attr.comment.markup">CC BY-SA 4.0 Int.</property>
+  <property name="meta.attr.date.markup">2019</property>
+ </producer>
+ <playlist id="playlist1">
+  <property name="kdenlive:track_name">Audio 2</property>
+  <property name="kdenlive:audio_track">1</property>
+  <entry out="609" producer="7_playlist1_audio" in="144">
+   <filter id="filter0">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">107=-15;144~=-40;161~=-15,6923;304~=-15;332~=-10;579~=-10;606~=-32,3077</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+  <entry out="986" producer="4_playlist1" in="268">
+   <filter id="filter3">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">1,5</property>
+   </filter>
+  </entry>
+  <blank length="134"/>
+  <entry out="1211" producer="4_playlist1" in="1031"/>
+  <blank length="131"/>
+  <entry out="1482" producer="4_playlist1" in="1261"/>
+  <blank length="74"/>
+  <entry out="1768" producer="4_playlist1" in="1532"/>
+  <blank length="161"/>
+  <entry out="1891" producer="4_playlist1" in="1815"/>
+  <blank length="112"/>
+  <entry out="2246" producer="4_playlist1" in="1939"/>
+  <blank length="194"/>
+  <entry out="2351" producer="4_playlist1" in="2292"/>
+  <blank length="41"/>
+  <entry out="2469" producer="4_playlist1" in="2403">
+   <filter id="filter1">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">1,25</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="137"/>
+  <entry out="2628" producer="4_playlist1" in="2518"/>
+  <blank length="143"/>
+  <entry out="2786" producer="4_playlist1" in="2680">
+   <filter id="filter2">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">1,2</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="150"/>
+  <entry out="3006" producer="4_playlist1" in="2849">
+   <filter id="filter4">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">1,2</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="108"/>
+  <entry out="3093" producer="4_playlist1" in="3059">
+   <filter id="filter5">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">0,8</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="225"/>
+  <entry out="3293" producer="4_playlist1" in="3139">
+   <filter id="filter6">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">1,25</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="357"/>
+  <entry out="3426" producer="4_playlist1" in="3339"/>
+  <blank length="136"/>
+  <entry out="3710" producer="4_playlist1" in="3475">
+   <filter id="filter7">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">1,1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="330"/>
+  <entry out="3974" producer="4_playlist1" in="3757"/>
+  <blank length="61"/>
+  <entry out="4236" producer="4_playlist1" in="4023">
+   <filter id="filter8">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">1,25</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="58"/>
+  <entry out="4519" producer="4_playlist1" in="4285"/>
+  <blank length="110"/>
+  <entry out="5251" producer="4_playlist1" in="4567"/>
+  <blank length="210"/>
+  <entry out="5524" producer="4_playlist1" in="5297"/>
+  <blank length="63"/>
+  <entry out="5738" producer="4_playlist1" in="5577"/>
+  <blank length="151"/>
+  <entry out="6240" producer="4_playlist1" in="5939"/>
+  <blank length="90"/>
+  <entry out="6669" producer="4_playlist1" in="6285">
+   <filter id="filter9">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">0,9</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="142"/>
+  <entry out="6924" producer="4_playlist1" in="6715"/>
+  <blank length="143"/>
+  <entry out="7111" producer="4_playlist1" in="6965"/>
+  <blank length="86"/>
+  <entry out="7378" producer="4_playlist1" in="7157"/>
+  <blank length="78"/>
+  <entry out="7910" producer="4_playlist1" in="7424"/>
+  <blank length="75"/>
+  <entry out="8112" producer="4_playlist1" in="7950"/>
+  <blank length="109"/>
+  <entry out="8393" producer="4_playlist1" in="8149"/>
+  <blank length="22"/>
+  <entry out="8618" producer="4_playlist1" in="8437"/>
+  <blank length="102"/>
+  <entry out="8864" producer="4_playlist1" in="8656">
+   <filter id="filter10">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">0,9</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="91"/>
+  <entry out="9040" producer="4_playlist1" in="8915">
+   <filter id="filter11">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">1,1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="124"/>
+  <entry out="9427" producer="4_playlist1" in="9090"/>
+  <blank length="106"/>
+  <entry out="9604" producer="4_playlist1" in="9472"/>
+  <blank length="58"/>
+  <entry out="9762" producer="4_playlist1" in="9650"/>
+  <blank length="93"/>
+  <entry out="9937" producer="4_playlist1" in="9814">
+   <filter id="filter12">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">1,5</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="72"/>
+  <entry out="10142" producer="4_playlist1" in="9975"/>
+  <blank length="124"/>
+  <entry out="9471" producer="4_playlist1" in="9428"/>
+  <blank length="115"/>
+  <entry out="10476" producer="4_playlist1" in="10180">
+   <filter id="filter13">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">2</property>
+   </filter>
+  </entry>
+  <entry out="10565" producer="4_playlist1" in="10507">
+   <filter id="filter14">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">2</property>
+   </filter>
+  </entry>
+ </playlist>
+ <producer id="5_playlist2" title="Anonymous Submission" out="13196" in="0">
+  <property name="length">13197</property>
+  <property name="eof">pause</property>
+  <property name="resource">zvuky/listovani.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">21116236</property>
+  <property name="kdenlive:file_hash">7dc0177b50bccb7de8d6b29f5a8e5b4f</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">320000</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.100</property>
+  <property name="meta.attr.Software.markup">Lavf57.83.100</property>
+  <property name="meta.attr.artist.markup">Singularis</property>
+ </producer>
+ <producer id="11_playlist2" title="Anonymous Submission" out="2735" in="0">
+  <property name="length">2736</property>
+  <property name="eof">pause</property>
+  <property name="resource">zvuky/tuxi.ogg</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">1835803</property>
+  <property name="kdenlive:file_hash">da930d74c1f20a62856736a652fd1250</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">vorbis</property>
+  <property name="meta.media.0.codec.long_name">Vorbis</property>
+  <property name="meta.media.0.codec.bit_rate">128003</property>
+  <property name="meta.attr.0.stream.ARTIST.markup">Pajama Crisis</property>
+  <property name="meta.attr.0.stream.ALBUM.markup">Beautiful Science</property>
+  <property name="meta.attr.0.stream.TITLE.markup">Free As In Tuxi</property>
+  <property name="meta.attr.0.stream.ENCODED_USING.markup">oggdropXPd interface.</property>
+  <property name="meta.attr.0.stream.ENCODED_BY.markup">Emmett</property>
+  <property name="meta.attr.0.stream.GENRE.markup">Other</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:track_name">Audio 1</property>
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="418"/>
+  <entry out="12976" producer="5_playlist2" in="112">
+   <filter id="filter15">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="gain">0,8</property>
+   </filter>
+  </entry>
+  <blank length="584"/>
+  <entry out="2708" producer="11_playlist2" in="0">
+   <filter id="filter16">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">gain</property>
+    <property name="tag">volume</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="gain">0,5</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+  </entry>
+ </playlist>
+ <producer id="7_video" title="Anonymous Submission" out="677" in="0">
+  <property name="length">678</property>
+  <property name="eof">pause</property>
+  <property name="resource">videa/vlak.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">64035202</property>
+  <property name="kdenlive:file_hash">6ca9f8c1cc826113d7e5442bba1fa432</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">18590624</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16p</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">mp3</property>
+  <property name="meta.media.1.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.1.codec.bit_rate">320200</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="6_playlist3" title="Anonymous Submission" out="13194" in="0">
+  <property name="length">13195</property>
+  <property name="eof">pause</property>
+  <property name="resource">videa/listovani.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">1074545304</property>
+  <property name="kdenlive:file_hash">09575575bc8e1d796d29986041894bfc</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">16284618</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <playlist id="playlist3">
+  <property name="kdenlive:track_name">Video 1</property>
+  <blank length="180"/>
+  <entry out="387" producer="7_video" in="325"/>
+  <blank length="175"/>
+  <entry out="12976" producer="6_playlist3" in="112">
+   <filter id="frei0r.brightness">
+    <property name="version">0,2</property>
+    <property name="mlt_service">frei0r.brightness</property>
+    <property name="kdenlive_id">frei0r.brightness</property>
+    <property name="tag">frei0r.brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable">1</property>
+    <property name="Brightness">0,656</property>
+   </filter>
+   <filter id="gamma">
+    <property name="gamma">112=1,5</property>
+    <property name="mlt_service">gamma</property>
+    <property name="kdenlive_id">gamma</property>
+    <property name="tag">gamma</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+   </filter>
+   <filter id="frei0r.contrast0r">
+    <property name="version">0,2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="tag">frei0r.contrast0r</property>
+    <property name="kdenlive_ix">3</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="Contrast">112=0,6</property>
+   </filter>
+   <filter id="frei0r.saturat0r">
+    <property name="version">0,3</property>
+    <property name="mlt_service">frei0r.saturat0r</property>
+    <property name="kdenlive_id">frei0r.saturat0r</property>
+    <property name="tag">frei0r.saturat0r</property>
+    <property name="kdenlive_ix">4</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="Saturation">112=0,21</property>
+   </filter>
+  </entry>
+ </playlist>
+ <producer id="8_video" title="Anonymous Submission" out="1122" in="0">
+  <property name="length">1123</property>
+  <property name="eof">pause</property>
+  <property name="resource">videa/prejezd.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">96448566</property>
+  <property name="kdenlive:file_hash">7d8dd1b4a53a0d79c34b13f3d1a3a785</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">16930306</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16p</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">mp3</property>
+  <property name="meta.media.1.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.1.codec.bit_rate">256005</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="slowmotion:54:2,05:1:0" out="2682" in="0">
+  <property name="length">2683</property>
+  <property name="eof">pause</property>
+  <property name="resource">2,05:videa/closing.mp4</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv444p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">11304333</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">2,05</property>
+  <property name="warp_resource">videa/closing.mp4</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="54_playlist4" title="Anonymous Submission" out="5499" in="0">
+  <property name="length">5500</property>
+  <property name="eof">pause</property>
+  <property name="resource">videa/closing.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">301281450</property>
+  <property name="kdenlive:file_hash">9c154d7c366127c114dab3cc6fd7d8aa</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">25</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv444p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">11304333</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.83.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <playlist id="playlist4">
+  <property name="kdenlive:track_name">Video 2</property>
+  <blank length="19"/>
+  <entry out="185" producer="2" in="0"/>
+  <blank length="38"/>
+  <entry out="596" producer="7_video" in="388"/>
+  <blank length="867"/>
+  <entry out="180" producer="14" in="0"/>
+  <blank length="131"/>
+  <entry out="81" producer="15" in="0"/>
+  <entry out="81" producer="16" in="0"/>
+  <entry out="221" producer="15" in="164"/>
+  <blank length="74"/>
+  <entry out="95" producer="17" in="0"/>
+  <entry out="36" producer="18" in="0"/>
+  <entry out="236" producer="17" in="133"/>
+  <blank length="161"/>
+  <entry out="76" producer="19" in="0"/>
+  <blank length="112"/>
+  <entry out="60" producer="20" in="0"/>
+  <entry out="38" producer="21" in="0"/>
+  <entry out="307" producer="20" in="100"/>
+  <blank length="194"/>
+  <entry out="59" producer="22" in="0"/>
+  <blank length="45"/>
+  <entry out="62" producer="23" in="0"/>
+  <blank length="137"/>
+  <entry out="110" producer="24" in="0"/>
+  <blank length="143"/>
+  <entry out="106" producer="25" in="0"/>
+  <blank length="150"/>
+  <entry out="157" producer="26" in="0"/>
+  <blank length="108"/>
+  <entry out="34" producer="27" in="0"/>
+  <blank length="225"/>
+  <entry out="154" producer="28" in="0"/>
+  <blank length="357"/>
+  <entry out="87" producer="29" in="0"/>
+  <blank length="139"/>
+  <entry out="232" producer="28" in="0"/>
+  <blank length="330"/>
+  <entry out="217" producer="31" in="0"/>
+  <blank length="61"/>
+  <entry out="213" producer="32" in="0"/>
+  <blank length="58"/>
+  <entry out="234" producer="33" in="0"/>
+  <blank length="110"/>
+  <entry out="684" producer="34" in="0"/>
+  <blank length="210"/>
+  <entry out="227" producer="35" in="0"/>
+  <blank length="63"/>
+  <entry out="161" producer="36" in="0"/>
+  <blank length="151"/>
+  <entry out="301" producer="37" in="0"/>
+  <blank length="90"/>
+  <entry out="384" producer="38" in="0"/>
+  <blank length="142"/>
+  <entry out="209" producer="39" in="0"/>
+  <blank length="143"/>
+  <entry out="87" producer="40" in="0"/>
+  <entry out="30" producer="41" in="0"/>
+  <entry out="146" producer="40" in="119"/>
+  <blank length="86"/>
+  <entry out="221" producer="43" in="0"/>
+  <blank length="78"/>
+  <entry out="486" producer="42" in="0"/>
+  <blank length="75"/>
+  <entry out="162" producer="44" in="0"/>
+  <blank length="109"/>
+  <entry out="244" producer="45" in="0"/>
+  <blank length="22"/>
+  <entry out="181" producer="47" in="0"/>
+  <blank length="102"/>
+  <entry out="208" producer="46" in="0"/>
+  <blank length="91"/>
+  <entry out="125" producer="48" in="0"/>
+  <blank length="124"/>
+  <entry out="337" producer="49" in="0"/>
+  <blank length="106"/>
+  <entry out="132" producer="50" in="0"/>
+  <blank length="58"/>
+  <entry out="112" producer="51" in="0"/>
+  <blank length="93"/>
+  <entry out="123" producer="52" in="0"/>
+  <blank length="72"/>
+  <entry out="167" producer="53" in="0"/>
+  <blank length="248"/>
+  <entry out="320" producer="8_video" in="31"/>
+  <blank length="329"/>
+  <entry out="2681" producer="slowmotion:54:2,05:1:0" in="0"/>
+  <entry out="5492" producer="54_playlist4" in="5466"/>
+ </playlist>
+ <playlist id="playlist5">
+  <property name="kdenlive:track_name">Video 3</property>
+  <entry out="49" producer="1" in="0"/>
+  <blank length="13455"/>
+  <entry out="980" producer="8_video" in="569"/>
+ </playlist>
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="16576" in="0">
+  <track producer="black_track"/>
+  <track producer="playlist0" hide="video"/>
+  <track producer="playlist1" hide="video"/>
+  <track producer="playlist2" hide="video"/>
+  <track producer="playlist3"/>
+  <track producer="playlist4"/>
+  <track producer="playlist5"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition6">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition7">
+   <property name="a_track">0</property>
+   <property name="b_track">6</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3" out="49" in="19">
+   <property name="a_track">5</property>
+   <property name="b_track">6</property>
+   <property name="factory">loader</property>
+   <property name="mlt_service">luma</property>
+   <property name="automatic">1</property>
+   <property name="kdenlive_id">dissolve</property>
+   <property name="force_track">0</property>
+   <property name="reverse">1</property>
+  </transition>
+  <transition id="transition10" out="13537" in="13505">
+   <property name="a_track">5</property>
+   <property name="b_track">6</property>
+   <property name="factory">loader</property>
+   <property name="mlt_service">luma</property>
+   <property name="automatic">1</property>
+   <property name="kdenlive_id">dissolve</property>
+   <property name="force_track">0</property>
+   <property name="reverse">1</property>
+  </transition>
+  <transition id="transition5" out="13916" in="13867">
+   <property name="a_track">5</property>
+   <property name="b_track">6</property>
+   <property name="factory">loader</property>
+   <property name="mlt_service">luma</property>
+   <property name="automatic">1</property>
+   <property name="kdenlive_id">dissolve</property>
+   <property name="force_track">0</property>
+   <property name="reverse">1</property>
+  </transition>
+  <transition id="transition8" out="451" in="418">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="factory">loader</property>
+   <property name="mlt_service">luma</property>
+   <property name="automatic">1</property>
+   <property name="kdenlive_id">dissolve</property>
+   <property name="force_track">0</property>
+   <property name="reverse">1</property>
+  </transition>
+  <transition id="transition9" out="204" in="180">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="factory">loader</property>
+   <property name="mlt_service">luma</property>
+   <property name="automatic">1</property>
+   <property name="kdenlive_id">dissolve</property>
+   <property name="force_track">0</property>
+   <property name="reverse">1</property>
+  </transition>
+  <transition id="transition11" out="13282" in="13248">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="factory">loader</property>
+   <property name="mlt_service">luma</property>
+   <property name="automatic">1</property>
+   <property name="kdenlive_id">dissolve</property>
+   <property name="force_track">0</property>
+   <property name="reverse">0</property>
+  </transition>
+  <transition id="transition12">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition13">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition14">
+   <property name="a_track">0</property>
+   <property name="b_track">6</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+</mlt>
