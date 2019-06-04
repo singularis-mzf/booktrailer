@@ -7,16 +7,14 @@ Snažil/a jsem se, aby byl tento projekt co nejotevřenější ve smyslu svobodn
 - Studovat, jak bylo dílo vytvořeno.
 - Upravit dílo a upravenou verzi sestavit do finální podoby čistě pomocí svobodného software.
 
-Vzhledem k tomu, že GitHub není primárně určen pro videoprojekty, některé opravdu velké soubory s&nbsp;videem a&nbsp;zvuky jsem musel/a do repozitáře nahrát ve výrazně snížené kvalitě:
+Vzhledem k tomu, že jsem ještě nevyzkoušel/a GitHub LFS, některé opravdu velké soubory s&nbsp;videem a&nbsp;zvuky jsem do repozitáře nahrál/a ve výrazně snížené kvalitě:
 
 - videa/*.mp4
 - zvuky/*.mp3 (ale „septani.mp3“ lze sestavit v&nbsp;plné kvalitě použitím níže uvedeného návodu)
 
-Pro vývoj to celkem stačí, a&nbsp;pokud budete mít zájem o&nbsp;sestavení projektu v&nbsp;plné kvalitě, napište mi o&nbsp;dané soubory na e-mail a pokusím se vám je zpřístupnit ke stažení:
+Pro vývoj to celkem stačí. Pokud budete mít zájem o&nbsp;sestavení projektu v&nbsp;plné kvalitě, napište mi o&nbsp;dané soubory na e-mail a pokusím se vám je zpřístupnit ke stažení:
 
 singularis@volny.cz
-
-Rovněž uvítám, pokud budete mít zájem o&nbsp;dlouhodobé poskytnutí veřejného hostingu pro tyto soubory, případně o&nbsp;zřízení torrentu.
 
 # NÁVOD K SESTAVENÍ
 
