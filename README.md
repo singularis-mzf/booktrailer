@@ -12,7 +12,7 @@ Vzhledem k tomu, že jsem ještě nevyzkoušel/a GitHub LFS, některé opravdu 
 - videa/*.mp4
 - zvuky/*.mp3 (ale „septani.mp3“ lze sestavit v&nbsp;plné kvalitě použitím níže uvedeného návodu)
 
-Pro vývoj to celkem stačí. Pokud budete mít zájem o&nbsp;sestavení projektu v&nbsp;plné kvalitě, napište mi o&nbsp;dané soubory na e-mail a pokusím se vám je zpřístupnit ke stažení:
+Velikosti a kontrolní součtů původních souborů jsou uvedeny níže v sekci „ORIGINÁLNÍ SOUBORY“. Pokud budete mít zájem o&nbsp;sestavení projektu v&nbsp;plné kvalitě, napište mi o&nbsp;originální soubory na e-mail a pokusím se vám je zpřístupnit ke stažení:
 
 singularis@volny.cz
 
@@ -85,6 +85,51 @@ Potřebné fonty:
 ## Na co si dát pozor
 
 Při úpravách šeptání si dejte pozor, aby se vám některá osa časově neposunula. Zařazení klipů do videa závisí na přesném načasování zvuku.
+
+# ORIGINÁLNÍ SOUBORY
+
+videa/closing.mp4:
+
+- 310 914 990 bajtů
+- MD5: df45e83a600e74c76656e38c37f4bc3f
+- SHA256: feec7c07d12adbe6eaab72ac8b45b1026ea27c81c68381a62b6bfe6843aff3e9
+
+videa/listovani.mp4:
+
+- 1 077 900 245 bajtů
+- MD5: b6b3d53723bf60ed4b98228520adb17a
+- SHA256: da89c6b72e9df9b10d27b81d4a2731341ab4c96af33eaf8d1586d9660960a385
+
+videa/prejezd.mp4:
+
+- 96 310 928 bajtů
+- MD5: d02be707fd1aaaefac07e9ce400fe3db
+- SHA256: b375303a1ee2163c0258891cb8c868bc5b27e78361c75512693fbc707de2bf3f
+
+videa/vlak.mp4:
+
+- 60 891 374 bajtů
+- MD5: 7c81e53694336a30c95b26120ca37069
+- SHA256: 6ec680657fe4f612db1a87f1eaeff2540c80b731e8135f5158668297291539d2
+
+zvuky/listovani.mp3:
+
+- 21 116 236 bajtů
+- MD5: 1f6cce4696c4f026e99cad05d1750500
+- SHA256: 2e637417ae75782ea67f5e68a75c9cd4d9b0b2149cb6cdd7957565f943585c48
+
+zvuky/septani.mp3:
+
+- 17 164 696 bajtů
+- MD5: 4149c6d20fa16f6a80162b3db62a54cd
+- SHA256: 74f99991b95169467a28871611991ba49ece2fbfac6e4c9474918e70d1f8ce60
+
+zvuky/tuxi.ogg:
+
+- 1 835 803 bajtů
+- MD5: da930d74c1f20a62856736a652fd1250
+- SHA256: 4429918c23915c7893814b704cf242ed1fa382f2511eaf7949d46d9355490921
+
 
 # COPYRIGHT
 
