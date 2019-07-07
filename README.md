@@ -7,12 +7,7 @@ Snažil/a jsem se, aby byl tento projekt co nejotevřenější ve smyslu svobodn
 - Studovat, jak bylo dílo vytvořeno.
 - Upravit dílo a upravenou verzi sestavit do finální podoby čistě pomocí svobodného software.
 
-Vzhledem k tomu, že jsem ještě nevyzkoušel/a GitHub LFS, některé opravdu velké soubory s&nbsp;videem a&nbsp;zvuky jsem do repozitáře nahrál/a ve výrazně snížené kvalitě:
-
-- videa/*.mp4
-- zvuky/*.mp3 (ale „septani.mp3“ lze sestavit v&nbsp;plné kvalitě použitím níže uvedeného návodu)
-
-Velikosti a kontrolní součtů původních souborů jsou uvedeny níže v sekci „ORIGINÁLNÍ SOUBORY“. Pokud budete mít zájem o&nbsp;sestavení projektu v&nbsp;plné kvalitě, napište mi o&nbsp;originální soubory na e-mail a pokusím se vám je zpřístupnit ke stažení:
+Vzhledem k tomu, že jsem ještě nevyzkoušel/a GitHub LFS, většina souborů v adresářích „videa“ a „zvuky“ jsou v tomto repozitáři ve výrazně snížené kvalitě, dostačující však k prohlédnutí a úpravě projektu. Původní soubory by měly být ke stažení na [https://uloz.to/!cGLrgTegHRpX/booktrailer-orig-zip](https://uloz.to/!cGLrgTegHRpX/booktrailer-orig-zip); jejich velikosti a kontrolní součty uvádím níže, v sekci „ORIGINÁLNÍ SOUBORY“. Pokud vám zip se soubory z uvedené adresy nepůjde stáhnout, můžete mi o něj napsat e-mailem a pokusím se vám je zpřístupnit ke stažení:
 
 singularis@volny.cz
 
